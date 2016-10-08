@@ -1,0 +1,6 @@
+<!-- pending -->
+
+<button data-foo data-bar="">
+	<span data-foo data-bar=""/>
+</button>
+
